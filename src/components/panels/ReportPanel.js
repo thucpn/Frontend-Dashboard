@@ -63,7 +63,7 @@ export default function ReportPanel() {
 					{record.reportTexts.map((data, index) => (
 						<span
 							style={{
-								backgroundColor: 'lightgrey',
+								backgroundColor: '#6294F8',
 								padding: '5px 10px',
 								marginRight: 5,
 								marginBottom: 5,
@@ -101,7 +101,7 @@ export default function ReportPanel() {
 							/>
 							<span
 								style={{
-									backgroundColor: 'lightgrey',
+									backgroundColor: '#61D9AA',
 									padding: '5px 10px',
 									borderRadius: 10,
 									marginLeft: 10,
